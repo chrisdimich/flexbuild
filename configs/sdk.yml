@@ -40,6 +40,8 @@ CONFIG_FUSE_PROVISIONING: n
 
 CONFIG_OPTEE: y
 
+CONFIG_OPENSSL: y
+
 INSTALL_DESKTOP_TEST_PACKAGES: n
 
 # user can customize the default path of components source and build output path
