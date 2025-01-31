@@ -417,5 +417,8 @@ repo:
   nxp_wlan_bt:
     url:  https://github.com/nxp-imx/mwifiex.git
 
+  summit_supplicant_tar:
+    url:  https://github.com/Ezurio/Sterling-LWB-and-LWB5-Release-Packages/releases/download/LRD-REL-12.103.0.5/summit_supplicant-src-12.103.0.5.tar.gz
+
   wireless_regdb_tar:
     url:  https://www.kernel.org/pub/software/network/wireless-regdb/wireless-regdb-2024.01.23.tar.gz
